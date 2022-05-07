@@ -3,6 +3,7 @@
 import tkinter as tk
 
 from tkinter import ttk
+import os
 
 class EntryEx(ttk.Entry):
 
